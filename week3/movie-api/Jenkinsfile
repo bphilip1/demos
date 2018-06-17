@@ -1,3 +1,4 @@
+//bino
 pipeline {
     agent {
         node {
